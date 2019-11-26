@@ -1,0 +1,53 @@
+
+.titulo {
+ text-align: center;
+}
+
+#formulario01 {
+    width: 87%;
+    margin-left: 7% ;
+}
+
+td .txt{
+    width: 300px;
+    height: 25px;
+}
+table{
+    margin-top: 2%;
+    margin-left: 25%;
+}
+tr *{
+    margin-top: 2%;
+    margin-block: 2%;    
+}
+tr .boton {
+    margin-left: 20%;
+    margin-top: 20px;
+    background: rgba(241, 71, 28, 0.527) ;
+    width: 90px;
+    height: 30px;
+}
+
+.login{
+    margin: 0 auto;
+}
+
+.loging td{
+    width: 50px;
+}
+
+.bot{
+    margin: 0px auto;
+    display: block;
+}
+
+#correo {
+    width: 200px;
+    
+}
+#contrasena {
+    width: 200px;
+   
+}
+
+
